@@ -1,1 +1,1 @@
-# Javascriipt-2025
+# Javascript-2025
